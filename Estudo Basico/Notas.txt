@@ -1,0 +1,13 @@
+Fatos sobre programacao em C: 
+
+-> "n % x" = resto da divisao n/x ( 10/2 == 0 ou 10 / 3 == 1)
+
+-> #include <locale.h> && setlocale(LC_ALL, "Portuguese"); para definir  a linguagem PT-BR
+
+->  If statement pra notar caracteres:
+      Use single quotes for single characters.
+      Use double quotes for multiple characters. 
+
+-> \0  = null terminator, util para impedir funcoes infinitas.
+
+-> while(x) == while(x != 0)
